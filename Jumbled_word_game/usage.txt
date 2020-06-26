@@ -1,0 +1,7 @@
+jumbled word game python
+
+* A project by Kohinoor Bharti
+
+# Run the main.py file to execute the project.
+# install required packages.
+# Can also add more words to the code according to your wish.
